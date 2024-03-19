@@ -1,0 +1,32 @@
+{
+  "name": "ruththompson-tools",
+  "version": "1.0.0",
+  "description": "A Node.js module providing utility functions for dealing with the Ruththompson-tools problem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RuthThompson9765804/ruththompson-tools"
+  },
+  "dependencies": {
+	  "ls-arrayv1": "1.0.0",
+	  "tai-array-generator": "1.0.0",
+	  "limonovp1": "1.0.0",
+	  "tai32max32-config": "1.0.0",
+"ruththompson": "1.0.0",
+"zheminivan": "1.0.0",
+"elizabethmiller-v2": "1.0.0",
+"edwardcollins": "1.0.0",
+"pp06": "1.0.0",
+"jakea-lk": "1.0.0",
+    "perf_hooks": "^1.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuthThompson9765804/ruththompson-tools/issues"
+  },
+  "homepage": "https://github.com/RuthThompson9765804/ruththompson-tools#readme"
+}
